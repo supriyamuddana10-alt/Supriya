@@ -1,52 +1,59 @@
 # 👋 Hi, I'm Supriya Muddana
 
-## 📞 Contact
-- 📱 Phone: 7995178795
-- 📧 Email: supriyamuddana10@gmail.com
-- 💼 LinkedIn: https://linkedin.com/in/supriya-muddana-07226b34b
-- 💻 GitHub: https://github.com/supriyamuddana10-alt
+🎓 Computer Science Engineering Student  
+💻 Aspiring Software Developer | Python | Java | Cloud Computing  
+🚀 Passionate about building real-world applications and solving problems  
+
+---
+
+## 📞 Contact Information 
+📧 Email: supriyamuddana10@gmail.com  
+💼 LinkedIn: https://linkedin.com/in/supriya-muddana-07226b34b  
+💻 GitHub: https://github.com/supriyamuddana10-alt  
 
 ---
 
 ## 🚀 Career Objective
-Motivated Computer Science Engineering student with knowledge in C, Java, Python, and Cloud Computing.  
-Seeking internship opportunities to apply technical skills and contribute to real-world software and cloud-based projects.
+Motivated Computer Science Engineering student with knowledge in **C, Java, Python, and Cloud Computing**.  
+Seeking internship opportunities to apply technical skills, gain industry experience, and contribute to real-world software projects.
 
 ---
 
 ## 🎓 Education
-- **B.Tech – CSE**  
-  Ramachandra College of Engineering, Vatluru (2024–2028) – Pursuing  
+**B.Tech – Computer Science Engineering**  
+Ramachandra College of Engineering, Vatluru (2024–2028) – Pursuing  
 
-- **Intermediate (MPC)**  
-  Sri Chaitanya Junior College, Eluru – 91.6% (2024)
+**Intermediate (MPC)**  
+Sri Chaitanya Junior College, Eluru – **91.6% (2024)**  
 
-- **SSC**  
-  ZP High School, Kovvali – 81.6% (2022)
+**SSC**  
+ZP High School, Kovvali – **81.6% (2022)**  
 
 ---
 
-## 🛠 Skills
+## 🛠 Technical Skills
 - Programming: C, Java, Python  
 - Cloud Computing Fundamentals  
-- MS Word, Excel, PowerPoint  
 - Problem Solving & Logical Thinking  
+- MS Word, Excel, PowerPoint  
 - Communication & Team Collaboration  
 
 ---
 
-## 💻 Project
-### MCQ Distractor Generator
+## 💻 Projects
+
+### 🧠 MCQ Distractor Generator
 - AI-based Python tool that generates incorrect options (distractors) for MCQs  
-- Uses basic NLP concepts  
+- Uses Natural Language Processing (NLP) concepts  
 - Helps improve quiz and assessment quality  
+- 📌 Focus: Education + AI + Automation  
 
 ---
 
 ## 📜 Certifications
 - C Programming – Simplilearn  
 - Python Essentials 1 & 2  
-- Welcome to ServiceNow  
+- ServiceNow Fundamentals  
 - UI Builder Micro Certification  
 
 ---
@@ -58,8 +65,9 @@ Seeking internship opportunities to apply technical skills and contribute to rea
 ---
 
 ## 👩‍🏫 Experience
-- Home Tutor (Part-Time)  
-  Helped school students and improved communication & time management skills  
+**Home Tutor (Part-Time)**  
+- Improved communication skills  
+- Developed time management & teaching abilities  
 
 ---
 
@@ -73,4 +81,13 @@ Seeking internship opportunities to apply technical skills and contribute to rea
 - Learning New Technologies  
 - Coding & Problem Solving  
 - Reading Technical Articles  
-- Watching Educational Videos  
+- Exploring AI Tools  
+
+---
+
+## ⭐ GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=supriyamuddana10-alt&show_icons=true&theme=tokyonight)
+
+---
+
+## 🚀 Let's Connect & Build Something Amazing!
