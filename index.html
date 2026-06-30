@@ -1,44 +1,90 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Supriya Portfolio</title>
+
   <style>
     body {
-      font-family: Arial;
       margin: 0;
+      font-family: Arial, sans-serif;
       background: #0f172a;
       color: white;
+      line-height: 1.6;
     }
 
     header {
       text-align: center;
-      padding: 50px;
+      padding: 60px 20px;
       background: #1e293b;
     }
 
-    h1 {
+    header h1 {
       color: #38bdf8;
+      margin-bottom: 10px;
+    }
+
+    header p {
+      color: #cbd5e1;
+    }
+
+    nav {
+      background: #111827;
+      padding: 10px;
+      text-align: center;
+    }
+
+    nav a {
+      color: #38bdf8;
+      margin: 0 15px;
+      text-decoration: none;
+      font-weight: bold;
     }
 
     section {
-      padding: 30px;
+      padding: 40px 20px;
+      max-width: 900px;
+      margin: auto;
     }
 
     .card {
       background: #1e293b;
-      padding: 15px;
-      border-radius: 10px;
-      margin-top: 10px;
+      padding: 20px;
+      margin: 20px 0;
+      border-radius: 12px;
+      box-shadow: 0 4px 10px rgba(0,0,0,0.3);
     }
 
-    button {
+    h2 {
+      color: #38bdf8;
+    }
+
+    a {
+      color: #38bdf8;
+    }
+
+    footer {
+      text-align: center;
+      padding: 20px;
+      background: #111827;
+      margin-top: 40px;
+      color: #94a3b8;
+    }
+
+    .btn {
+      display: inline-block;
+      padding: 10px 15px;
+      margin-top: 10px;
       background: #38bdf8;
       color: black;
-      padding: 10px;
-      border: none;
-      border-radius: 8px;
-      cursor: pointer;
+      border-radius: 6px;
+      text-decoration: none;
       font-weight: bold;
+    }
+
+    .btn:hover {
+      background: #0ea5e9;
     }
   </style>
 </head>
@@ -46,43 +92,61 @@
 <body>
 
 <header>
-  <h1>Supriya Muddana 👩‍💻</h1>
-  <p>Aspiring Software Developer | Python | Java | Cloud</p>
+  <h1>Supriya Muddana</h1>
+  <p>Computer Science Student | Developer | AI Enthusiast</p>
+  <a class="btn" href="mailto:supriyamuddana10@gmail.com">Contact Me</a>
 </header>
 
-<section>
-  <h2>About Me</h2>
+<nav>
+  <a href="#about">About</a>
+  <a href="#projects">Projects</a>
+  <a href="#skills">Skills</a>
+  <a href="#contact">Contact</a>
+</nav>
+
+<section id="about">
   <div class="card">
-    Computer Science Engineering student passionate about building real-world applications and AI projects.
+    <h2>About Me</h2>
+    <p>
+      I am a Computer Science Engineering student passionate about building real-world applications using Python, Java, and AI technologies. I enjoy solving problems and learning new technologies.
+    </p>
   </div>
 </section>
 
-<section>
-  <h2>Skills</h2>
+<section id="projects">
   <div class="card">
-    C, Java, Python, Cloud Computing, Problem Solving
+    <h2>Projects</h2>
+    <h3>🧠 MCQ Distractor Generator</h3>
+    <p>
+      AI-based tool that generates incorrect options (distractors) for MCQs using NLP techniques.
+      Focused on improving educational content quality.
+    </p>
   </div>
 </section>
 
-<section>
-  <h2>Projects</h2>
+<section id="skills">
   <div class="card">
-    🧠 MCQ Distractor Generator (AI + NLP Project)
+    <h2>Skills</h2>
+    <p>✔ C Programming</p>
+    <p>✔ Java</p>
+    <p>✔ Python</p>
+    <p>✔ Cloud Computing Basics</p>
+    <p>✔ Problem Solving</p>
   </div>
 </section>
 
-<section>
-  <h2>Contact</h2>
+<section id="contact">
   <div class="card">
-    📧 supriyamuddana10@gmail.com <br>
-    💼 LinkedIn Profile <br>
-    💻 GitHub Profile <br><br>
-
-    <a href="Supriya_Resume.pdf" download>
-      <button>📄 Download Resume</button>
-    </a>
+    <h2>Contact</h2>
+    <p>Email: supriyamuddana10@gmail.com</p>
+    <p>LinkedIn: <a href="https://linkedin.com">Profile</a></p>
+    <p>GitHub: <a href="https://github.com/supriyamuddana10-alt">Repository</a></p>
   </div>
 </section>
+
+<footer>
+  <p>🚀 Built with HTML & CSS | Supriya Portfolio</p>
+</footer>
 
 </body>
 </html>
