@@ -1,42 +1,29 @@
 # 👋 Hi, I'm Supriya Muddana
 
-🎓 Computer Science Engineering Student  
-💻 Aspiring Software Developer | Python | Java | Cloud Computing  
-🚀 Passionate about building real-world applications and solving problems  
+### 💻 Computer Science Engineering Student | Aspiring Software Developer  
+🚀 Passionate about building real-world applications using Python, Java, and AI technologies.
 
 ---
 
-## 📞 Contact Information 
-📧 Email: supriyamuddana10@gmail.com  
-💼 LinkedIn: https://linkedin.com/in/supriya-muddana-07226b34b  
-💻 GitHub: https://github.com/supriyamuddana10-alt  
+## ⚡ Quick Highlights
+- 🎓 B.Tech CSE Student (2024–2028) – Ramachandra College of Engineering  
+- 💡 Interested in AI, Cloud Computing & Software Development  
+- 🧠 Project: MCQ Distractor Generator (NLP-based AI tool)  
+- 🚀 Focused on improving problem-solving & development skills  
 
 ---
 
-## 🚀 Career Objective
-Motivated Computer Science Engineering student with knowledge in **C, Java, Python, and Cloud Computing**.  
-Seeking internship opportunities to apply technical skills, gain industry experience, and contribute to real-world software projects.
-
----
-
-## 🎓 Education
-**B.Tech – Computer Science Engineering**  
-Ramachandra College of Engineering, Vatluru (2024–2028) – Pursuing  
-
-**Intermediate (MPC)**  
-Sri Chaitanya Junior College, Eluru – **91.6% (2024)**  
-
-**SSC**  
-ZP High School, Kovvali – **81.6% (2022)**  
+## 🎯 Career Objective
+Motivated Computer Science student seeking opportunities to apply technical skills in software development, gain industry experience, and contribute to impactful real-world projects.
 
 ---
 
 ## 🛠 Technical Skills
-- Programming: C, Java, Python  
-- Cloud Computing Fundamentals  
-- Problem Solving & Logical Thinking  
-- MS Word, Excel, PowerPoint  
-- Communication & Team Collaboration  
+- 💻 Programming: C, Java, Python  
+- ☁️ Cloud Computing Basics  
+- 🧠 Problem Solving & Logical Thinking  
+- 📊 MS Office (Word, Excel, PowerPoint)  
+- 🤝 Teamwork & Communication  
 
 ---
 
@@ -44,9 +31,9 @@ ZP High School, Kovvali – **81.6% (2022)**
 
 ### 🧠 MCQ Distractor Generator
 - AI-based Python tool that generates incorrect options (distractors) for MCQs  
-- Uses Natural Language Processing (NLP) concepts  
-- Helps improve quiz and assessment quality  
-- 📌 Focus: Education + AI + Automation  
+- Uses Natural Language Processing (NLP) techniques  
+- Helps improve quiz and assessment creation  
+- 📌 Focus: AI + Education + Automation  
 
 ---
 
@@ -66,8 +53,8 @@ ZP High School, Kovvali – **81.6% (2022)**
 
 ## 👩‍🏫 Experience
 **Home Tutor (Part-Time)**  
-- Improved communication skills  
-- Developed time management & teaching abilities  
+- Improved communication and teaching skills  
+- Developed time management and responsibility  
 
 ---
 
@@ -80,14 +67,21 @@ ZP High School, Kovvali – **81.6% (2022)**
 ## 🎯 Interests
 - Learning New Technologies  
 - Coding & Problem Solving  
-- Reading Technical Articles  
 - Exploring AI Tools  
+- Reading Technical Blogs  
 
 ---
 
-## ⭐ GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=supriyamuddana10-alt&show_icons=true&theme=tokyonight)
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=supriyamuddana10-alt&show_icons=true&theme=tokyonight)
 
 ---
 
-## 🚀 Let's Connect & Build Something Amazing!
+## 📫 Contact Me
+- 📧 Email: mailto:supriyamuddana10@gmail.com  
+- 💼 LinkedIn: https://linkedin.com/in/supriya-muddana-07226b34b  
+- 💻 GitHub: https://github.com/supriyamuddana10-alt  
+
+---
+
+## 🚀 Let’s Connect & Build Something Amazing!
