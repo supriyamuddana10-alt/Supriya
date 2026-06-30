@@ -1,152 +1,176 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Supriya Portfolio</title>
 
   <style>
-    body {
+    * {
       margin: 0;
+      padding: 0;
+      box-sizing: border-box;
       font-family: Arial, sans-serif;
+    }
+
+    body {
       background: #0f172a;
       color: white;
       line-height: 1.6;
     }
 
     header {
+      height: 100vh;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
       text-align: center;
-      padding: 60px 20px;
-      background: #1e293b;
+      background: linear-gradient(135deg, #0f172a, #1e293b);
     }
 
     header h1 {
+      font-size: 3rem;
       color: #38bdf8;
-      margin-bottom: 10px;
     }
 
     header p {
+      font-size: 1.2rem;
+      margin: 10px 0 20px;
       color: #cbd5e1;
     }
 
-    nav {
-      background: #111827;
-      padding: 10px;
-      text-align: center;
-    }
-
-    nav a {
-      color: #38bdf8;
-      margin: 0 15px;
+    .btn {
+      padding: 10px 20px;
+      margin: 5px;
+      border: none;
+      border-radius: 5px;
+      cursor: pointer;
       text-decoration: none;
       font-weight: bold;
     }
 
+    .btn-primary {
+      background: #38bdf8;
+      color: black;
+    }
+
+    .btn-outline {
+      border: 2px solid #38bdf8;
+      color: #38bdf8;
+      background: transparent;
+    }
+
     section {
-      padding: 40px 20px;
+      padding: 60px 20px;
       max-width: 900px;
       margin: auto;
+    }
+
+    h2 {
+      color: #38bdf8;
+      margin-bottom: 20px;
+      text-align: center;
     }
 
     .card {
       background: #1e293b;
       padding: 20px;
-      margin: 20px 0;
-      border-radius: 12px;
-      box-shadow: 0 4px 10px rgba(0,0,0,0.3);
+      margin: 10px 0;
+      border-radius: 10px;
     }
 
-    h2 {
-      color: #38bdf8;
+    ul {
+      list-style: none;
     }
 
-    a {
-      color: #38bdf8;
+    ul li {
+      padding: 5px 0;
     }
 
     footer {
       text-align: center;
       padding: 20px;
-      background: #111827;
+      background: #1e293b;
       margin-top: 40px;
-      color: #94a3b8;
-    }
-
-    .btn {
-      display: inline-block;
-      padding: 10px 15px;
-      margin-top: 10px;
-      background: #38bdf8;
-      color: black;
-      border-radius: 6px;
-      text-decoration: none;
-      font-weight: bold;
-    }
-
-    .btn:hover {
-      background: #0ea5e9;
     }
   </style>
 </head>
 
 <body>
 
-<header>
-  <h1>Supriya Muddana</h1>
-  <p>Computer Science Student | Developer | AI Enthusiast</p>
-  <a class="btn" href="mailto:supriyamuddana10@gmail.com">Contact Me</a>
-</header>
+  <!-- HERO -->
+  <header>
+    <h1>Supriya Muddana</h1>
+    <p>Computer Science Student | Aspiring Software Developer | AI Enthusiast</p>
 
-<nav>
-  <a href="#about">About</a>
-  <a href="#projects">Projects</a>
-  <a href="#skills">Skills</a>
-  <a href="#contact">Contact</a>
-</nav>
+    <div>
+      <a class="btn btn-primary" href="#projects">View Projects</a>
+      <a class="btn btn-outline" href="#contact">Contact Me</a>
+    </div>
+  </header>
 
-<section id="about">
-  <div class="card">
+  <!-- ABOUT -->
+  <section>
     <h2>About Me</h2>
-    <p>
-      I am a Computer Science Engineering student passionate about building real-world applications using Python, Java, and AI technologies. I enjoy solving problems and learning new technologies.
-    </p>
-  </div>
-</section>
+    <div class="card">
+      I am a B.Tech Computer Science student (2024–2028) passionate about software development, AI, and problem-solving.
+      I enjoy building real-world applications and continuously improving my technical skills.
+    </div>
+  </section>
 
-<section id="projects">
-  <div class="card">
-    <h2>Projects</h2>
-    <h3>🧠 MCQ Distractor Generator</h3>
-    <p>
-      AI-based tool that generates incorrect options (distractors) for MCQs using NLP techniques.
-      Focused on improving educational content quality.
-    </p>
-  </div>
-</section>
-
-<section id="skills">
-  <div class="card">
+  <!-- SKILLS -->
+  <section>
     <h2>Skills</h2>
-    <p>✔ C Programming</p>
-    <p>✔ Java</p>
-    <p>✔ Python</p>
-    <p>✔ Cloud Computing Basics</p>
-    <p>✔ Problem Solving</p>
-  </div>
-</section>
+    <div class="card">
+      <ul>
+        <li>Programming: C, Java, Python</li>
+        <li>Problem Solving & DSA Basics</li>
+        <li>Cloud Computing Basics</li>
+        <li>MS Office</li>
+        <li>Teamwork & Communication</li>
+      </ul>
+    </div>
+  </section>
 
-<section id="contact">
-  <div class="card">
-    <h2>Contact</h2>
-    <p>Email: supriyamuddana10@gmail.com</p>
-    <p>LinkedIn: <a href="https://linkedin.com">Profile</a></p>
-    <p>GitHub: <a href="https://github.com/supriyamuddana10-alt">Repository</a></p>
-  </div>
-</section>
+  <!-- PROJECTS -->
+  <section id="projects">
+    <h2>Projects</h2>
 
-<footer>
-  <p>🚀 Built with HTML & CSS | Supriya Portfolio</p>
-</footer>
+    <div class="card">
+      <h3>MCQ Distractor Generator</h3>
+      <p>
+        AI-based Python tool that generates incorrect options (distractors) for MCQs using NLP techniques.
+      </p>
+    </div>
+  </section>
+
+  <!-- CERTIFICATIONS -->
+  <section>
+    <h2>Certifications</h2>
+    <div class="card">
+      <ul>
+        <li>C Programming – Simplilearn</li>
+        <li>Python Essentials 1 & 2</li>
+        <li>ServiceNow Fundamentals</li>
+        <li>UI Builder Micro Certification</li>
+      </ul>
+    </div>
+  </section>
+
+  <!-- CONTACT -->
+  <section id="contact">
+    <h2>Contact Me</h2>
+    <div class="card">
+      <p>Email: supriyamuddana10@gmail.com</p>
+      <p>LinkedIn: linkedin.com/in/supriya-muddana-07226b34b</p>
+      <p>GitHub: github.com/supriyamuddana10-alt</p>
+    </div>
+  </section>
+
+  <footer>
+    © 2026 Supriya Muddana | Built with HTML & CSS
+  </footer>
 
 </body>
 </html>
